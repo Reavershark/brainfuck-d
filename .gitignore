@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/brainfuck-d
+brainfuck-d.so
+brainfuck-d.dylib
+brainfuck-d.dll
+brainfuck-d.a
+brainfuck-d.lib
+brainfuck-d-test-*
+*.exe
+*.o
+*.obj
+*.lst

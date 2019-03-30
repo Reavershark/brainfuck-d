@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"jonas"
+	],
+	"copyright": "Copyright © 2019, jonas",
+	"description": "A brainfuck interpreter",
+	"license": "GPLv2",
+	"name": "brainfuck-d"
+}
